@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Guzlej/fluctuation1/HEAD?filepath=fluctuation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Guzlej/fluctuation/HEAD?filepath=fluctuation1.ipynb)
